@@ -16,7 +16,7 @@ dependencies = [
 [dependency-groups]
 tests = [
     "pytest==8.0.0", # latest is 8.4.1
-    "pytest-cov==6.0.0", # latest is 6.2.1
+    "pytest-cov==6.2.1", # latest is 6.2.1
 ]
 doc = [
     "ansys-sphinx-theme==1.4.0", # latest is 1.5.3
