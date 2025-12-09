@@ -19,7 +19,7 @@ tests = [
     "pytest-cov==6.0.0", # latest is 6.2.1
 ]
 doc = [
-    "ansys-sphinx-theme==1.4.0", # latest is 1.5.3
+    "ansys-sphinx-theme==1.6.4", # latest is 1.5.3
     "sphinx==7.4.0", # latest is 8.2.3
 ]
 
